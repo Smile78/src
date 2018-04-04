@@ -1,3 +1,5 @@
+package sol_30_03;
+
 public class Book{
 
     String author, title;
