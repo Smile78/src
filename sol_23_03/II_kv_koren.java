@@ -7,6 +7,7 @@ public class II_kv_koren {
       double a=1.23;
       double b=3.435;
       double c=4.34;
+
       double x=5.12;
       double d=-1.00;
       double x1=0.00;

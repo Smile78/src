@@ -1,12 +1,18 @@
-public class I_nearest10 {
-        public static void main (String [] args){
-            float m = 13.33f;
-            float n = 8.45f;
-            float x = 10.00f;
-            float m1 =0.00f;
-            float n1 =0.00f;
+import java.util.Scanner;
 
-            //float o = -10;
+public class I_nearest10 {
+
+//    1) Создать программу, выводящую на экран ближайшее к 10 из двух чисел, записанных в переменные m и n.
+//    Например, среди чисел 8.5 и 11.45 ближайшее к десяти 11.45
+
+        public static void main (String [] args){
+            double m =-8.45 ;
+            double n =11.45;
+            double x =10.00;
+
+            double m1 ;
+            double n1 ;
+
             if (m>=10)
                 m1=m-x;
             else

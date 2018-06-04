@@ -1,3 +1,5 @@
+package sol_23_03;
+
 import  java.util.Scanner;
 import  java.util.ArrayList;
 

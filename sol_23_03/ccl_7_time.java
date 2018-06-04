@@ -1,13 +1,16 @@
+package sol_23_03;
+
 import java.util.ArrayList;
+import java.util.List;
 //import java.io.*;
 
-public class ccl_VII_time {
+public class ccl_7_time {
     //7) Электронные часы показывают время в формате от 00:00 до 23:59. Подсчитать сколько раз за сутки случается так,
     // что слева от двоеточия показывается симметричная комбинация для той,
     // что справа от двоеточия (например, 02:20, 11:11 или 15:51).
 
     public static void main(String[] args) {
-        ArrayList<Integer> hrs    = new ArrayList<Integer>();
+        List<Integer> hrs         = new ArrayList<Integer>();
         ArrayList<Integer> bkMnts = new ArrayList<Integer>();
         ArrayList<String>  eq1    = new ArrayList<String>();
 

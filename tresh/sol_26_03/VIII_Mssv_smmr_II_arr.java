@@ -1,3 +1,5 @@
+package tresh.sol_26_03;
+
 public class VIII_Mssv_smmr_II_arr {
     public static void main(String[] args) {
         //int arr1[] = new int[9];
