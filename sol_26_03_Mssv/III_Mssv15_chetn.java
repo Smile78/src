@@ -1,4 +1,4 @@
-package sol_26_03;
+package sol_26_03_Mssv;
 
 public class III_Mssv15_chetn {
     // 3) Создайте массив из 15 случайных целых чисел из отрезка [0;9].

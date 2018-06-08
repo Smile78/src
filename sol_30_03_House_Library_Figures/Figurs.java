@@ -1,4 +1,4 @@
-package sol_30_03_HLF;
+package sol_30_03_House_Library_Figures;
 
 public class Figurs {
 // //Создать фигуры: Circle, Rectangle, Triangle, у которых будут координаты. Все фигуры должны иметь методы,

@@ -1,5 +1,4 @@
-package sol_23_03;
-import java.util.Scanner;
+package sol_23_03_Posl_Sort;
 
 public class ccl_6_tram_v3_1_fin2 {
     //6) В городе N проезд в трамвае осуществляется по бумажным отрывным билетам. Каждую неделю трамвайное депо заказывает

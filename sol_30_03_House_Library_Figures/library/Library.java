@@ -1,4 +1,4 @@
-package sol_30_03_HLF.library;
+package sol_30_03_House_Library_Figures.library;
 
 //import java.awt.print.Book;
 //import java.util.Scanner;

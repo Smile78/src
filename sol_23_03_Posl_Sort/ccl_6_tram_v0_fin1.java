@@ -1,4 +1,4 @@
-package sol_23_03;
+package sol_23_03_Posl_Sort;
 //только для 4 разрядных
 
 public class ccl_6_tram_v0_fin1 {

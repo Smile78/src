@@ -1,7 +1,4 @@
-package sol_23_03;
-
-import java.util.ArrayList;
-import java.util.List;
+package sol_23_03_Posl_Sort;
 
 public class ccl_5_pos_fibl_11 {
 

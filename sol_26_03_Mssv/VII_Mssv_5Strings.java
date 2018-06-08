@@ -1,6 +1,4 @@
-package sol_26_03;
-
-import java.util.Scanner;
+package sol_26_03_Mssv;
 
 public class VII_Mssv_5Strings {
     // 7) Создать двумерный массив из 5 строк по 8 столбцов в каждой из случайных целых чисел из отрезка [-99;99].

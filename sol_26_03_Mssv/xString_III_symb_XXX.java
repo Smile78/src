@@ -1,7 +1,6 @@
-package sol_26_03;
+package sol_26_03_Mssv;
 
 import java.util.Arrays;
-import java.util.BitSet;
 import java.util.Scanner;
 
 public class xString_III_symb_XXX {

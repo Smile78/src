@@ -1,4 +1,4 @@
-package sol_26_03;
+package sol_26_03_Mssv;
 
 public class IV_Mssv2_po5 {
     // 4) Создайте 2 массива из 5 случайных целых чисел из отрезка [0;5] каждый,

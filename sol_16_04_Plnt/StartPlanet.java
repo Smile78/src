@@ -1,4 +1,4 @@
-package sol_16_04_enum;
+package sol_16_04_Plnt;
 
 public class StartPlanet   {
 

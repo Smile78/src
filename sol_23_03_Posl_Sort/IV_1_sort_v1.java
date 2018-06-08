@@ -1,4 +1,4 @@
-package sol_23_03;
+package sol_23_03_Posl_Sort;
 
  import java.util.Scanner;
 

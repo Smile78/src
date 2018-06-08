@@ -1,7 +1,6 @@
-package sol_23_03;
+package sol_23_03_Posl_Sort;
 
 import java.math.BigInteger;
-import java.util.ArrayList;
 
 public class ccl_4_natur_prost {
 //4) Проверьте,  является ли  натуральное число — простым.

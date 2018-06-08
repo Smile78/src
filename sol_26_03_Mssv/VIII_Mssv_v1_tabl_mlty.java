@@ -6,9 +6,7 @@
 //   При этом среди 15 примеров не должно быть повторяющихся (примеры 2*3 и 3*2 и им подобные пары
 //   считать повторяющимися).
 
-package sol_26_03;
-
-import java.util.Random;
+package sol_26_03_Mssv;
 
 public class VIII_Mssv_v1_tabl_mlty {
 

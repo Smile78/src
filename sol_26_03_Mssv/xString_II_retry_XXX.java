@@ -1,4 +1,4 @@
-package sol_26_03;
+package sol_26_03_Mssv;
 
 import java.util.Scanner;
 
